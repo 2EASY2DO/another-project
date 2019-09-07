@@ -1,0 +1,1 @@
+Practice for init a repository
